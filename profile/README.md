@@ -1,5 +1,3 @@
-Data, research, and tools on India from public administrative records. Individual-level data are shared for research only.
-
 🗳️ **Electoral Rolls**: [Rolls for all states](https://github.com/in-rolls/electoral_rolls), [Bihar 2020](https://github.com/in-rolls/electoral_rolls_bihar_2020), [UP 2023](https://github.com/in-rolls/electoral_rolls_up_2023), [Assam 2026](https://github.com/in-rolls/electoral_rolls_assam_2026), [Polling stations](https://github.com/in-rolls/poll-station-metadata), [Constituency shapefiles](https://github.com/in-rolls/ac_shape_files), Parsing [searchable](https://github.com/in-rolls/parse_searchable_rolls) and [scanned](https://github.com/in-rolls/parse_unsearchable_rolls) rolls, [Fast OCR](https://github.com/in-rolls/savitr)
 
 🌾 **Land Records**: Records of rights from [Bihar](https://github.com/in-rolls/ror_bihar_2022), [Rajasthan](https://github.com/in-rolls/ror_raj_2026), and [Odisha](https://github.com/in-rolls/ror_odisha_2026), [Distribution of land in Bihar](https://github.com/in-rolls/land), [Caste as an impediment to trade, revisited](https://github.com/in-rolls/well-actually)
